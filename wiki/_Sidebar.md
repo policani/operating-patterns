@@ -1,0 +1,19 @@
+# Operating Patterns
+
+- [Home](Home)
+- [About This Material](About-This-Material)
+- [Operating Patterns](Operating-Patterns)
+  - [Intake Discipline](Intake-Discipline)
+  - [Portfolio Sequencing](Portfolio-Sequencing)
+  - [Executive Decision Support](Executive-Decision-Support)
+  - [Value Realization](Value-Realization)
+  - [AI Resource Allocation Governance](AI-Resource-Allocation-Governance)
+  - [Release Readiness and UAT](Release-Readiness-and-UAT)
+  - [Partner and Ecosystem Governance](Partner-and-Ecosystem-Governance)
+- [Proof Patterns](Proof-Patterns)
+  - [Ambiguous Stakeholder Alignment](Ambiguous-Stakeholder-Alignment)
+  - [Recovering Delivery Signal](Recovering-Delivery-Signal)
+  - [Turning Noise into Governance](Turning-Noise-into-Governance)
+  - [Making Tradeoffs Visible](Making-Tradeoffs-Visible)
+- [Capability Index](Capability-Index)
+
