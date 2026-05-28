@@ -2,9 +2,15 @@
 
 This repository is the source bundle for a public GitHub Wiki of generalized operating patterns.
 
-Live wiki:
+Source pages:
 
-https://github.com/policani/operating-patterns/wiki
+https://github.com/policani/operating-patterns/tree/main/wiki
+
+GitHub Wiki status:
+
+The repository has wiki support enabled, but GitHub has not initialized the
+`.wiki.git` backing repository yet. Until the first wiki page is created through
+GitHub's wiki UI, the source pages above are the public browsing path.
 
 Portfolio landing page:
 
