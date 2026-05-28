@@ -2,7 +2,31 @@
 
 This repository is the source bundle for a public GitHub Wiki of generalized operating patterns.
 
+Live wiki:
+
+https://github.com/policani/operating-patterns/wiki
+
+Portfolio landing page:
+
+https://policani.github.io
+
 The material is intentionally framed as a professional knowledge base rather than employer-specific case studies. It should help a reader understand the operating problems I work on, how I structure ambiguous work, and what kinds of capabilities the work demonstrates.
+
+## How to evaluate this repository
+
+This is not a conventional software project. It is a public-safe knowledge base
+for portfolio reviewers, hiring managers, PMO leaders, and AI operations teams.
+
+Open these first:
+
+1. [Home](wiki/Home.md)
+2. [About This Material](wiki/About-This-Material.md)
+3. [Capability Index](wiki/Capability-Index.md)
+4. [Operating Patterns](wiki/Operating-Patterns.md)
+
+The value is in the operating logic: how unclear work becomes visible, how
+tradeoffs become discussable, how value and evidence are separated from theater,
+and how governance keeps humans accountable for decisions.
 
 ## Publishing shape
 
@@ -13,6 +37,10 @@ Recommended public GitHub setup:
 - Wiki visibility: public
 - Repository README: this file or a shorter version of it
 - Wiki source: the Markdown files in `wiki/`
+
+The `wiki/` folder is the source copy. The public GitHub Wiki should be updated
+from those files so readers can browse the material at `/wiki` instead of
+digging through the repository tree.
 
 ## Guardrails
 
@@ -33,4 +61,3 @@ The private evidence library can keep specific facts, metrics, dates, employers,
 ## Disclaimer
 
 This material is independent personal work based on generalized professional experience. It is not affiliated with, sponsored by, or endorsed by any current or former employer or client. Confidential details have been omitted or generalized.
-
