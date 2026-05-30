@@ -18,6 +18,17 @@ https://policani.github.io
 
 The material is intentionally framed as a professional knowledge base rather than employer-specific case studies. It should help a reader understand the operating problems I work on, how I structure ambiguous work, and what kinds of capabilities the work demonstrates.
 
+## Role in the portfolio
+
+Use this repository as a supporting pattern library for Marco's public positioning, not as the main sales page and not as a resume. The portfolio site and GitHub profile should carry the clearest navigation. These pages provide the reusable operating logic behind that positioning:
+
+- Portfolio governance and signal recovery
+- Executive decision support and tradeoff visibility
+- AI resource allocation and human-governed workflow design
+- Delivery readiness, value realization, and partner ecosystem governance
+
+The wiki should remain generalized. It can support search and AI discovery through clear capability language, but it should not absorb private evidence, employer-specific claims, or product prose from the proof-of-concept modules.
+
 ## How to evaluate this repository
 
 This is not a conventional software project. It is a public-safe knowledge base
