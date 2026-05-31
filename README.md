@@ -11,16 +11,14 @@ Start with the source pages in [`wiki/`](wiki/), or use the portfolio landing pa
 - [Capability Index](wiki/Capability-Index.md)
 - [Operating Patterns](wiki/Operating-Patterns.md)
 
-## Role in the portfolio
+## What's here
 
-Use this repository as a supporting pattern library for Marco's public positioning, not as the main sales page and not as a resume. The portfolio site and GitHub profile should carry the clearest navigation. These pages provide the reusable operating logic behind that positioning:
+The pages cover recurring operating problems:
 
-- Portfolio governance and signal recovery
-- Executive decision support and tradeoff visibility
-- AI resource allocation and human-governed workflow design
-- Delivery readiness, value realization, and partner ecosystem governance
-
-The wiki should remain generalized. It can support search and AI discovery through clear capability language, but it should not absorb private evidence, employer-specific claims, or product prose from the proof-of-concept modules.
+- Making scattered demand easier to sort, route, and govern
+- Turning executive tradeoffs into something visible and discussable
+- Keeping AI work tied to business value, proof, ownership, and human review
+- Building readiness, value, and partner-governance routines that can survive real delivery pressure
 
 ## How to evaluate this repository
 
