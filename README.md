@@ -1,8 +1,8 @@
 # Portfolio Artifacts and Operating Patterns
 
-This repository is a public-safe artifact library for portfolio governance, executive decision support, delivery readiness, value realization, partner ecosystems, and practical AI governance.
+This repository is a portfolio evidence library: a public-safe collection of operating patterns for portfolio governance, executive decision support, delivery readiness, value realization, partner ecosystems, and practical AI governance.
 
-Use it as anonymized portfolio evidence, not as generic open-source documentation and not as a software product. The pages translate real operating experience into shareable governance frameworks, operating models, playbooks, templates, lessons learned, and reusable pattern pages. The pattern format exists because the original work cannot be shown directly without exposing employer, client, financial, or proprietary details.
+The pages show how complex operating problems are framed, governed, and made executable. They translate real delivery experience into reusable governance frameworks, operating models, playbooks, templates, lessons learned, and pattern pages for reviewers who want to understand how the work gets structured. Employer, client, financial, and proprietary details are intentionally omitted so the transferable operating logic can be inspected publicly.
 
 Start with the source pages in [`wiki/`](wiki/), or use the portfolio landing page for the broader map:
 
