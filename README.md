@@ -7,7 +7,9 @@ Use it as anonymized portfolio evidence, not as generic open-source documentatio
 Start with the source pages in [`wiki/`](wiki/), or use the portfolio landing page for the broader map:
 
 - [Portfolio landing page](https://policani.github.io)
+- [Portfolio artifact source pages](https://github.com/policani/Policani/tree/main/wiki)
 - [Portfolio artifact home](wiki/Home.md)
+- [Portfolio Artifact Map](wiki/Portfolio-Artifact-Map.md)
 - [Capability Index](wiki/Capability-Index.md)
 - [Operating Patterns](wiki/Operating-Patterns.md)
 
