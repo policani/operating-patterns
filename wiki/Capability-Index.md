@@ -1,6 +1,8 @@
 # Capability Index
 
-This index connects the public wiki pages to broad capabilities. It is intentionally not a resume and does not reference specific employers.
+This index connects the public artifact pages to broad capabilities. It is intentionally not a resume and does not reference specific employers.
+
+The pages are best read as anonymized portfolio artifacts: governance frameworks, operating model fragments, playbook logic, reusable templates, lessons learned, and pattern pages derived from real work but scrubbed for public review.
 
 ## Portfolio governance
 
@@ -39,4 +41,3 @@ This index connects the public wiki pages to broad capabilities. It is intention
 - [AI Resource Allocation Governance](AI-Resource-Allocation-Governance)
 - [Value Realization](Value-Realization)
 - [Making Tradeoffs Visible](Making-Tradeoffs-Visible)
-

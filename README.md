@@ -1,19 +1,19 @@
-# Operating Patterns Wiki
+# Portfolio Artifacts and Operating Patterns
 
-This repository is a public index of generalized operating patterns for portfolio governance, executive decision support, delivery readiness, value realization, partner ecosystems, and practical AI governance.
+This repository is a public-safe artifact library for portfolio governance, executive decision support, delivery readiness, value realization, partner ecosystems, and practical AI governance.
 
-Use it as a pattern library, not a personal resume and not a software product. The pages translate professional operating judgment into reusable structures: how unclear work is named, how evidence is separated from assertion, how tradeoffs become visible, and how human accountability stays attached to decisions.
+Use it as anonymized portfolio evidence, not as generic open-source documentation and not as a software product. The pages translate real operating experience into shareable governance frameworks, operating models, playbooks, templates, lessons learned, and reusable pattern pages. The pattern format exists because the original work cannot be shown directly without exposing employer, client, financial, or proprietary details.
 
 Start with the source pages in [`wiki/`](wiki/), or use the portfolio landing page for the broader map:
 
 - [Portfolio landing page](https://policani.github.io)
-- [Wiki home](wiki/Home.md)
+- [Portfolio artifact home](wiki/Home.md)
 - [Capability Index](wiki/Capability-Index.md)
 - [Operating Patterns](wiki/Operating-Patterns.md)
 
 ## What's here
 
-The pages cover recurring operating problems:
+The pages organize public-safe portfolio artifacts around recurring operating problems:
 
 - Making scattered demand easier to sort, route, and govern
 - Turning executive tradeoffs into something visible and discussable
@@ -22,8 +22,9 @@ The pages cover recurring operating problems:
 
 ## How to evaluate this repository
 
-This is not a conventional software project. It is a public-safe knowledge base
-for portfolio reviewers, hiring managers, PMO leaders, and AI operations teams.
+This is not a conventional software project. It is a public-safe portfolio
+artifact library for portfolio reviewers, hiring managers, PMO leaders, and AI
+operations teams.
 
 Open these first:
 
@@ -32,9 +33,10 @@ Open these first:
 3. [Capability Index](wiki/Capability-Index.md)
 4. [Operating Patterns](wiki/Operating-Patterns.md)
 
-The value is in the operating logic: how unclear work becomes visible, how
-tradeoffs become discussable, how value and evidence are separated from theater,
-and how governance keeps humans accountable for decisions.
+The value is in the operating logic behind the artifacts: how unclear work
+becomes visible, how tradeoffs become discussable, how value and evidence are
+separated from theater, and how governance keeps humans accountable for
+decisions.
 
 ## Guardrails
 

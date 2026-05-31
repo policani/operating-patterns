@@ -2,7 +2,9 @@
 
 Operating patterns describe recurring problems that appear across enterprise work: weak intake signals, competing priorities, unclear sequencing, executive decisions made without enough tradeoff clarity, and delivery effort that is not visibly tied to business value.
 
-The patterns in this section are intentionally generalized. They are meant to show how I reason through work, not to document any specific employer environment.
+In this portfolio, they are not abstract theory. They are one public-safe artifact type inside a broader set of governance frameworks, operating models, playbooks, templates, and lessons learned.
+
+The patterns in this section are intentionally generalized. They are meant to show how I reason through work and preserve useful operating logic without documenting any specific employer environment.
 
 ## Pattern pages
 
@@ -24,4 +26,3 @@ Across these patterns, the work usually starts by separating noise from signal:
 - What dependencies constrain the sequence?
 - What risk is business-relevant rather than merely operationally inconvenient?
 - What value should the work realize, protect, or make measurable?
-

@@ -1,7 +1,8 @@
-# Operating Patterns
+# Portfolio Artifacts
 
 - [Home](Home)
 - [About This Material](About-This-Material)
+- [Portfolio Artifact Map](Portfolio-Artifact-Map)
 - [Operating Patterns](Operating-Patterns)
   - [Intake Discipline](Intake-Discipline)
   - [Portfolio Sequencing](Portfolio-Sequencing)
@@ -16,4 +17,3 @@
   - [Turning Noise into Governance](Turning-Noise-into-Governance)
   - [Making Tradeoffs Visible](Making-Tradeoffs-Visible)
 - [Capability Index](Capability-Index)
-
