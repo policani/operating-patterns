@@ -1,22 +1,15 @@
 # Operating Patterns Wiki
 
-This repository is the source bundle for a public GitHub Wiki of generalized operating patterns.
+This repository is a public index of generalized operating patterns for portfolio governance, executive decision support, delivery readiness, value realization, partner ecosystems, and practical AI governance.
 
-Source pages:
+Use it as a pattern library, not a personal resume and not a software product. The pages translate professional operating judgment into reusable structures: how unclear work is named, how evidence is separated from assertion, how tradeoffs become visible, and how human accountability stays attached to decisions.
 
-https://github.com/policani/operating-patterns/tree/main/wiki
+Start with the source pages in [`wiki/`](wiki/), or use the portfolio landing page for the broader map:
 
-GitHub Wiki status:
-
-The repository has wiki support enabled, but GitHub has not initialized the
-`.wiki.git` backing repository yet. Until the first wiki page is created through
-GitHub's wiki UI, the source pages above are the public browsing path.
-
-Portfolio landing page:
-
-https://policani.github.io
-
-The material is intentionally framed as a professional knowledge base rather than employer-specific case studies. It should help a reader understand the operating problems I work on, how I structure ambiguous work, and what kinds of capabilities the work demonstrates.
+- [Portfolio landing page](https://policani.github.io)
+- [Wiki home](wiki/Home.md)
+- [Capability Index](wiki/Capability-Index.md)
+- [Operating Patterns](wiki/Operating-Patterns.md)
 
 ## Role in the portfolio
 
@@ -44,20 +37,6 @@ Open these first:
 The value is in the operating logic: how unclear work becomes visible, how
 tradeoffs become discussable, how value and evidence are separated from theater,
 and how governance keeps humans accountable for decisions.
-
-## Publishing shape
-
-Recommended public GitHub setup:
-
-- Repository name: `operating-patterns`
-- Repository visibility: public
-- Wiki visibility: public
-- Repository README: this file or a shorter version of it
-- Wiki source: the Markdown files in `wiki/`
-
-The `wiki/` folder is the source copy. The public GitHub Wiki should be updated
-from those files so readers can browse the material at `/wiki` instead of
-digging through the repository tree.
 
 ## Guardrails
 
