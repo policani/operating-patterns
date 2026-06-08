@@ -59,3 +59,7 @@ The private evidence library can keep specific facts, metrics, dates, employers,
 ## Disclaimer
 
 This material is independent personal work based on generalized professional experience. It is not affiliated with, sponsored by, or endorsed by any current or former employer or client. Confidential details have been omitted or generalized.
+
+## License
+
+Original written operating-pattern materials in this repository are licensed under CC BY 4.0 with attribution to Marco Policani. See `LICENSE.md`.
